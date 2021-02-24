@@ -97,7 +97,7 @@
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" inline-output="false" labelreference="L411" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field style="Text" layout="Normal">Solve any { <Font bold="true">C- D</Font> Nozzle , Unchoked  <Font bold="true">C</Font> Nozzle and Chocked <Font bold="true">C</Font> Nozzle} <Font bold="true">TFE</Font> using this CODE . 
+<Input><Text-field style="Text" layout="Normal">Solve any { <Font bold="true">C- D</Font> Nozzle , Unchoked  <Font bold="true">C</Font> Nozzle No Chocked <Font bold="true">C</Font> Nozzle .. yet} <Font bold="true">TFE</Font> using this CODE . 
 In case of <Font underline="true">design Problem</Font> , you will have to <Font underline="true">assume</Font> the design parameter and <Font underline="true">compare</Font> to the result then assume again to reduce the error.</Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
